@@ -1,5 +1,23 @@
 # Open-Emptiness-Echo
-This is a open-source Chinese solution for building Discord servers for specific resonace individuals.Although it is not yet perfect,it needs to be completed.
+项目简介：空境 · Emptiness & Echo 开源计划
+
+“不求救赎，只为见证。” 
+
+《空境》是一个挑战当代“解决方案偏见”的非代码开源项目 。我们认为，数字空间不应只有“修复”与“治愈”，更应存在一种能够容纳破碎、虚无与真实痛苦的心理拓扑学容器 。
+
+本项目旨在通过精密的 Discord 权限架构与自动化脚本，构建一个从“表层喧嚣”向“永夜深渊”逐级沉淀的数字场域。在这里，痛苦无需被转化为“正向价值”，它只需作为存在本身被确认 。
+
+核心开源内容
+非对称拓扑架构： 基于 Discord Role Hierarchy 实现的单向透明权限模型，确保深渊空间的隐秘与纯粹。
+
+Echo-Bot 逻辑协议： 包含《灵魂之秤》准入仪式、潮汐时间锁以及数据熔断自毁机制的技术逻辑。
+
+守渊人伦理手册： 一套完整的“非干预性守护”准则，重新定义数字空间的管理者角色。
+
+筑造者招募
+我们正在寻找认同“准入誓言”的空间调律者（Discord 架构师、Bot 开发、极简主义设计师）。如果你曾穿行过废墟，并深知“见证”的力量重于“拯救”，请加入这一场关于“留白”与“真实”的开源实验。
+
+“我所修筑的墙，是为了保护沉默；我所编写的代码，是为了守卫真实。” —— 《准入誓言》
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 > **开源声明：** 本项目采用 CC BY-NC-SA 4.0 许可。你可以自由地分享和修改本方案，但必须署名、不得用于商业目的，且必须以相同方式分享。
